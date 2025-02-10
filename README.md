@@ -1,6 +1,5 @@
 # Daegu_traffic_accident_damage_prediction_AI_Competition
-
-<br/>
+### 대구 교통사고 피해 예측 AI 개발
 
 ## 1. 배경 & 목적
 
