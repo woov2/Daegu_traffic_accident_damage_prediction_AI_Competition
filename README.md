@@ -1,6 +1,10 @@
 # Daegu traffic accident damage prediction AI Competition
 ### 대구 교통사고 피해 예측 AI 개발
 
+# Overview
+![Image](https://github.com/user-attachments/assets/6c57f266-7df1-4c73-9632-72f6d31290cd)
+![Image](https://github.com/user-attachments/assets/dedf6da3-b733-458e-b425-15ef09d7943d)
+
 ## 1. 배경 & 목적
 
 - 이동수단의 발달에 따라 다양한 유형의 교통사고들이 계속 발생.
